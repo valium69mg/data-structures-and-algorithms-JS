@@ -40,4 +40,4 @@ class Stack {
     }
 }
 
-my_stack = new Stack();
+var my_stack = new Stack();
